@@ -6,7 +6,7 @@ html, body {
 body {
 	margin: 0px;
 	padding: 0px;
-	background: #014F26 url(images/bg1_01.gif) repeat;
+	background: #014F26 url(/assets/bg1_01.gif) repeat;
 	font-family: Georgia, "Times New Roman", Times, serif;
 	font-size: 14px;
 	color: #9E9686;
@@ -66,12 +66,12 @@ hr {
 /** WRAPPER */
 
 #wrapper {
-	background: url(images/bg1_02.gif) repeat;
+	background: url(/assets/bg1_02.gif) repeat;
 }
 
 #wrapper-bgtop {
 	overflow: hidden;
-	background: url(images/bg1_03.jpg) repeat-x left top;
+	background: url(/assets/bg1_03.jpg) repeat-x left top;
 }
 
 .container {
@@ -86,7 +86,7 @@ hr {
 /** HEADER */
 
 #header {
-	background: url(images/bg1_04.jpg) no-repeat left top;
+	background: url(/assets/bg1_04.jpg) no-repeat left top;
 	height: 162px;
 }
 
@@ -165,7 +165,7 @@ hr {
 /** PAGE */
 
 #page {
-	background: url(images/bg1_05.gif) repeat-y left top;
+	background: url(/assets/bg1_05.gif) repeat-y left top;
 }
 
 #page-content {
@@ -194,7 +194,7 @@ hr {
 	overflow: hidden;
 	float: left;
 	width: 260px;
-	background: url(images/bg3_02.gif) repeat-y left top;
+	background: url(/assets/bg3_02.gif) repeat-y left top;
 }
 
 .two-column2 #sidebar {
@@ -202,25 +202,25 @@ hr {
 }
 
 #sidebar-bgtop {
-	background: url(images/bg3_01.jpg) no-repeat left top;
+	background: url(/assets/bg3_01.jpg) no-repeat left top;
 }
 
 #sidebar-bgbtm {
 	overflow: hidden;
 	padding: 0px 0px 40px 0px;
-	background: url(images/bg3_03.gif) no-repeat left bottom;
+	background: url(/assets/bg3_03.gif) no-repeat left bottom;
 }
 
 /** FOOTER */
 
 #footer-wrapper {
-	background: url(images/bg1_07.gif) repeat-x left top;
+	background: url(/assets/bg1_07.gif) repeat-x left top;
 }
 
 #footer {
 	overflow: hidden;
 	height: 168px;
-	background: url(images/bg1_08.jpg) no-repeat left top;
+	background: url(/assets/bg1_08.jpg) no-repeat left top;
 }
 
 #footer p {
@@ -238,7 +238,7 @@ hr {
 	width: 852px;
 	height: 275px;
 	margin: 0px auto 22px auto;
-	background: url(images/bg2_01.jpg) no-repeat left top;
+	background: url(/assets/bg2_01.jpg) no-repeat left top;
 }
 
 #banner h2 {
@@ -268,7 +268,7 @@ hr {
 	position: absolute;
 	width: 829px;
 	height: 246px;
-	background: url(images/bg2_03.png) no-repeat left top;
+	background: url(/assets/bg2_03.png) no-repeat left top;
 	top: 12px;
 	left: 10px;
 }
@@ -309,7 +309,7 @@ hr {
 	margin-top: 24px;
 	margin-left: 68px;
 	padding: 5px 0px 0px 0px;
-	background: url(images/bg2_04.png) no-repeat left top;
+	background: url(/assets/bg2_04.png) no-repeat left top;
 	text-align: center;
 	text-decoration: none;
 	text-shadow: 1px 2px 0px #034020;
@@ -331,7 +331,7 @@ hr {
 	width: 130px;
 	height: 37px;
 	padding: 3px 0px 0px 0px;
-	background: url(images/homepage03.jpg) no-repeat left top;
+	background: url(/assets/homepage03.jpg) no-repeat left top;
 	text-align: center;
 	text-decoration: none;
 	text-shadow: 1px 2px 0px #034020;
@@ -347,7 +347,7 @@ hr {
 	display: inline-block;
 	margin-top: -8px;
 	padding-left: 15px;
-	background: url(images/homepage05.gif) no-repeat left 9px;
+	background: url(/assets/homepage05.gif) no-repeat left 9px;
 }
 
 #box-container {
@@ -424,7 +424,7 @@ ul.style1 {
 
 ul.style1 li {
 	padding: 10px 0px 8px 0px;
-	background: url(images/homepage01.gif) no-repeat left top;
+	background: url(/assets/homepage01.gif) no-repeat left top;
 }
 
 ul.style1 a {
@@ -544,7 +544,7 @@ ul.style2 .first {
 }
 
 .image-style1a span {
-	background: url(images/bg3_04.png) no-repeat left top;
+	background: url(/assets/bg3_04.png) no-repeat left top;
 }
 
 /** IMAGE BORDER STYLE 2 */
@@ -573,7 +573,7 @@ ul.style2 .first {
 }
 
 .image-style2a span {
-	background: url(images/bg3_05.png) no-repeat left top;
+	background: url(/assets/bg3_05.png) no-repeat left top;
 }
 
 /** IMAGE BORDER STYLE 3 */
@@ -600,7 +600,7 @@ ul.style2 .first {
 }
 
 .image-style3a span {
-	background: url(images/bg3_06.png) no-repeat left top;
+	background: url(/assets/bg3_06.png) no-repeat left top;
 }
 
 /** IMAGE BORDER STYLE 4 */
@@ -629,7 +629,7 @@ ul.style2 .first {
 }
 
 .image-style4a span {
-	background: url(images/bg3_07.png) no-repeat left top;
+	background: url(/assets/bg3_07.png) no-repeat left top;
 }
 
 .divider {
@@ -637,3 +637,4 @@ ul.style2 .first {
 	clear: both;
 	border-top: 1px solid #F5F3E6;
 }
+
